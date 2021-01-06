@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">UtsavMap Integration</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="options">options</string>
 </resources>

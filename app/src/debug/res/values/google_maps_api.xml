@@ -1,0 +1,23 @@
+<resources>
+    <!--
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=9F:6C:9F:14:BF:AD:F7:CF:21:1E:DF:C7:8F:69:95:9E:18:C1:2A:21%3Bcom.applex.utsavmapintegration
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.applex.utsavmapintegration
+
+    SHA-1 certificate fingerprint:
+    9F:6C:9F:14:BF:AD:F7:CF:21:1E:DF:C7:8F:69:95:9E:18:C1:2A:21
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAkUCc1mQmcbp-okAL2GWr1tQNRc_kbL-U</string>
+</resources>
